@@ -1,0 +1,10 @@
+empty?
+push Kiwi
+empty?
+top
+push Peach
+empty?
+top
+reset
+empty?
+quit
