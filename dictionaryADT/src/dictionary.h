@@ -1,7 +1,5 @@
 #include <limits.h>
 
-// Do NOT modify this file.
-
 /*************************************************
   The dictionary ADT as presented in lectures...
   except:
