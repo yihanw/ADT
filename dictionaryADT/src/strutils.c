@@ -5,8 +5,6 @@
 // see strutils.h for documentation
 #include "strutils.h"
 
-// Do NOT modify this file.
-
 // this is from the notes
 char *my_strdup(const char *s) {
   char *newstr = malloc((strlen(s) + 1) * sizeof(char));
