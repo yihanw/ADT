@@ -1,7 +1,5 @@
 #lang racket
 
-;; DO NOT MODIFY THIS FILE
-
 (require "../common/io-test.rkt")
 (require "stack.rkt")
 
