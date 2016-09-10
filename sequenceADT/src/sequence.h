@@ -2,9 +2,6 @@
  File: sequence.h
 */
 
-//Warning: DO NOT MODIFY THIS FILE
-
-
 struct Sequence {
      int max_len;
      int arr[100];
