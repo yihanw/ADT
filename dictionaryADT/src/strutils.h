@@ -1,7 +1,5 @@
 #include <stdbool.h>
 
-// Do NOT modify this file.
-
 // a module that provides some string helpers
 
 // my_strdup(s) makes a duplicate of s
