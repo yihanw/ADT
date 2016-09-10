@@ -1,7 +1,5 @@
 #lang racket
 
-;; DO NOT MODIFY THIS FILE
-
 ;; A Stack ADT in Racket (INTERFACE)
 (provide create-stack stack-push stack-pop stack-top stack-empty?)
 
