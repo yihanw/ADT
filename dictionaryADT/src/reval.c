@@ -9,7 +9,6 @@
 
 // this is a testing client provided for you
 // see the .in and .expect files for ideas
-// there is no need to modify this (unless you attempt the bonus)
 
 int main(void) {
   struct dictionary *constants = dict_create();
