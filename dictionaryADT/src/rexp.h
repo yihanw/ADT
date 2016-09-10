@@ -7,7 +7,6 @@
 // 'v' for a variable [name stored in id]
 // 'n' for a number   [value stored in number]
 
-// do NOT modify the fields provided
 // for the bonus, you may add new fields and types if you wish.
 
 struct enode {
