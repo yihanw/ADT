@@ -6,10 +6,6 @@
 // see dictionary.h for documentation
 #include "dictionary.h"
 
-// this is *mostly* the version from the notes
-
-// Do NOT modify this file.
-
 struct bstnode {
   char *item;  // key
   int value;
