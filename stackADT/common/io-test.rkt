@@ -1,13 +1,5 @@
 #lang racket
 
-;; DO NOT MODIFY THIS FILE
-
-;; Warning! For new 136 students, there is some I/O here that
-;; will not be covered until Section 07.
-
-;; You don't have to understand how this module works
-;; (psst! that's called *abstraction*)
-
 ;; The io-test module provides a universal driver for I/O testing in racket
 
 (provide io-test)
